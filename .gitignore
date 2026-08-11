@@ -1,5 +1,4 @@
 node_modules
-.env*
 .eve
 .vercel
 .workflow-data
@@ -9,3 +8,4 @@ node_modules
 dist
 .DS_Store
 *.tsbuildinfo
+config.bat
